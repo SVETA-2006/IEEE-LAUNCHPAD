@@ -1,5 +1,4 @@
-# Full Name 
-SVETA SUNU
+# SVETA SUNU
 
 ### About Me
 I’m an Electronics and Communication Engineering student who loves learning about how technology works.
