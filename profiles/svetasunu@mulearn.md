@@ -40,7 +40,7 @@ I  haven’t developed widely used software tools yet,
 #### Competitive Website Profiles:
 
 Linked in: https://www.linkedin.com/in/sveta-sunu-396b2b35b/
-Mulearn : https://app.mulearn.org/dashboard/profile
+
 
 
 
