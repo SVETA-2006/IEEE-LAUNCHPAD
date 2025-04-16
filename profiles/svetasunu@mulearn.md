@@ -3,6 +3,9 @@
 ### About Me
 I’m an Electronics and Communication Engineering student who loves learning about how technology works.
 I'm interested in circuits, communication systems, and new innovations that help connect people and devices.
+My dream is to grow into a skilled engineer who not only builds cool things but also makes a real impact. I want to be part of the future—creating technology that connects people, solves real problems, and inspires the world.I enjoy learning how things connect, communicate, and solve problems. What excites me most is that EC is everywhere—from the internet we use every day to the future of AI, IoT, and robotics. I’m always curious to learn something new, whether it’s building small circuits, working with microcontrollers like Arduino, or understanding how communication networks work.
+
+
 
 
 #### Leadership and Influence:
